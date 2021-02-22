@@ -1,6 +1,6 @@
 <?php
 	define('SERVEUR', 'localhost'); // Serveur
-	define('UTILISATRICE', 'p2002123'); // Identifiant
-	define('MOTDEPASSE', 'issuing'); // Mot de passe
-	define('BDD', 'p2002123'); // Nom de bdd
+	define('UTILISATRICE', 'p2000000'); // Identifiant
+	define('MOTDEPASSE', '****'); // Mot de passe
+	define('BDD', 'p2000000'); // Nom de bdd
 ?>
